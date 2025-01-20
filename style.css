@@ -62,7 +62,7 @@ a:hover {
 }
 
 .linkedin {
-    background-color: #0077b5; /* LinkedIn blue */
+    background-color: #119de9; /* LinkedIn blue */
 }
 
 .linkedin:hover {
@@ -84,7 +84,12 @@ a:hover {
 .leetcode:hover {
     background-color: #cc7e0e;
 }
-
+.linktree{
+    background-color: rgb(12, 252, 12);
+}
+.linktree:hover{
+    background-color: rgb(9, 122, 15);
+}
 footer {
     text-align: center;
     padding: 10px;
